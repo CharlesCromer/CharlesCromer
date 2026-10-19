@@ -66,7 +66,7 @@ An independent, **human-governed, AI-assisted GRC research and education project
 
 **[Read the project overview →](https://www.linkedin.com/posts/charlescromer_assessment-lens-start-here-ai-enabled-activity-7499970171915108352-CwsC)**
 
-### 🐝 [Hive and Honey — Business Website](https://github.com/CharlesCromer/Hive-And-Honey)
+### 🐝 [Hive and Honey — Business Website](https://PanamaCityBeekeeping.com)
 
 A public-facing website for an independent business. A practical project outside my primary cybersecurity work that reflects web publishing, ownership, and maintaining a real-world online presence.
 
