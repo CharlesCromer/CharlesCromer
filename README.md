@@ -74,7 +74,7 @@ A public-facing website for an independent business. A practical project outside
 - **Repository:** [Hive and Honey on GitHub](https://github.com/CharlesCromer/Hive-And-Honey)
 
 <details>
-<summary><strong>🧪 Earlier Python projects — pending review</strong></summary>
+<strong>🧪 Earlier Python projects — pending review</strong>
 
 - **[Weather SMS application:](https://github.com/CharlesCromer/Weather-Alert)** College-era Python project exploring weather data and text-message notifications.
 - **[Thanksgiving meal planner:](https://github.com/CharlesCromer/Fried-Turkey-Schedule-Generator)** Python tool for building a cooking schedule from the turkey's weight and target serving time.
@@ -98,6 +98,7 @@ These repositories are currently private. I may publish selected projects after 
 - **AWS Well-Architected Proficient** — AWS training badge
 - **Chainguard** — Vulnslayer · FIPS Frontrunner · AI Threat Tamer
 - **Additional coursework** — AWS Cloud Practitioner Essentials · CMMC 2.0 · Generative AI / agentic AI
+- **OpenAI** - OpenAI Cyber Solutions Practitioner certificate
 
 **[Browse my credentials on Credly →](https://www.credly.com/users/charles-cromer.27ec5b98)**
 
