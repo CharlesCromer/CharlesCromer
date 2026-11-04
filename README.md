@@ -89,7 +89,6 @@ These repositories are currently private. I may publish selected projects after 
 **Professional certifications**
 
 - **Certified Information Systems Security Professional (CISSP)** — ISC2
-- **ISO/IEC 27001:2022 Lead Auditor** — Mastermind Assurance
 - **CompTIA Security+** — CompTIA
 - **CompTIA A+** — CompTIA
 
@@ -97,7 +96,7 @@ These repositories are currently private. I may publish selected projects after 
 
 - **AWS Well-Architected Proficient** — AWS training badge
 - **Chainguard** — Vulnslayer · FIPS Frontrunner · AI Threat Tamer
-- **Additional coursework** — AWS Cloud Practitioner Essentials · CMMC 2.0 · Generative AI / agentic AI
+- **Additional coursework** — AWS Cloud Practitioner Essentials · CMMC 2.0 · ISO/IEC 27001:2022 Lead Auditor · Generative AI / agentic AI
 - **OpenAI** - OpenAI Cyber Solutions Practitioner certificate
 
 **[Browse my credentials on Credly →](https://www.credly.com/users/charles-cromer.27ec5b98)**
