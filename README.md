@@ -76,9 +76,9 @@ A public-facing website for an independent business. A practical project outside
 <details>
 <summary><strong>🧪 Earlier Python projects — pending review</strong></summary>
 
-- **Weather SMS application:(https://github.com/CharlesCromer/Weather-Alert)** College-era Python project exploring weather data and text-message notifications.
-- **Thanksgiving meal planner:(https://github.com/CharlesCromer/Fried-Turkey-Schedule-Generator)** Python tool for building a cooking schedule from the turkey's weight and target serving time.
-- **Website Status Push Notification:(https://github.com/CharlesCromer/Website-Status)** Python tool for immediately notifying you via text or email if/when your website goes down and/or comes back up.
+- **[Weather SMS application:](https://github.com/CharlesCromer/Weather-Alert)** College-era Python project exploring weather data and text-message notifications.
+- **[Thanksgiving meal planner:](https://github.com/CharlesCromer/Fried-Turkey-Schedule-Generator)** Python tool for building a cooking schedule from the turkey's weight and target serving time.
+- **[Website Status Push Notification:](https://github.com/CharlesCromer/Website-Status)** Python tool for immediately notifying you via text or email if/when your website goes down and/or comes back up.
 
 These repositories are currently private. I may publish selected projects after reviewing the code, removing any sensitive information, and improving documentation.
 
