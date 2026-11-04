@@ -4,7 +4,7 @@
 
 ### Cybersecurity · RMF & GRC · Cloud Security
 
-**CISSP** · **ISO/IEC 27001:2022 Lead Auditor** · **Technical Security & Risk Management**
+**CISSP** · **Risk Management Expert** · **Technical Security & Risk Management**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlescromer)
 [![Credly](https://img.shields.io/badge/Credly-Credentials-FF6B00?style=flat-square)](https://www.credly.com/users/charles-cromer.27ec5b98)
@@ -76,8 +76,9 @@ A public-facing website for an independent business. A practical project outside
 <details>
 <summary><strong>🧪 Earlier Python projects — pending review</strong></summary>
 
-- **Weather SMS application:** College-era Python project exploring weather data and text-message notifications.
-- **Thanksgiving meal planner:** Python tool for building a cooking schedule from the turkey's weight and target serving time.
+- **Weather SMS application:(https://github.com/CharlesCromer/Weather-Alert)** College-era Python project exploring weather data and text-message notifications.
+- **Thanksgiving meal planner:(https://github.com/CharlesCromer/Fried-Turkey-Schedule-Generator)** Python tool for building a cooking schedule from the turkey's weight and target serving time.
+- **Website Status Push Notification:(https://github.com/CharlesCromer/Website-Status)** Python tool for immediately notifying you via text or email if/when your website goes down and/or comes back up.
 
 These repositories are currently private. I may publish selected projects after reviewing the code, removing any sensitive information, and improving documentation.
 
